@@ -1,6 +1,6 @@
-# 🍡 Mochi: AI Tamagotchi
+# 🍡 Moti: AI Tamagotchi
 
-> **Mochi** — это не просто тамагочи. Это твой цифровой питомец с настоящей «нейросетью в голове», который учится на твоих поступках.
+> **Moti** — это не просто тамагочи. Это твой цифровой питомец с настоящей «нейросетью в голове», который учится на твоих поступках.
 
 ![License](https://img.shields.io/github/license/RomanDorokhin/liveAI)
 ![Build Status](https://github.com/RomanDorokhin/liveAI/actions/workflows/deploy.yml/badge.svg)
@@ -42,7 +42,7 @@
 Проект настроен на автоматический деплой в **GitHub Pages** через GitHub Actions. Просто пушни в `main`, и новая версия сама появится в сети.
 
 ## 🕹 Играть
-**[Открыть Mochi в браузере](https://romandorokhin.github.io/liveAI/)**
+**[Открыть Moti в браузере](https://romandorokhin.github.io/liveAI/)**
 
 ---
 Создано с любовью к коду и цифровым питомцам.
